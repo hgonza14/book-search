@@ -1,6 +1,6 @@
-# Search for books
+# let's Find
 
-Search for books is a website for looking for books.
+let's Find is a website for searching books.
 
 ## Usage
 
